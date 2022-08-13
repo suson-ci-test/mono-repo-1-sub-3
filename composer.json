@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "mono-repo-1/repo1": "dev-main",
-        "mono-repo-1/repo2": "dev-main"
+        "mono-repo-1/repo: "dev-main",
+        "mono-repo-1/repo: "dev-main"
     }
 }
