@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "mono-repo-1/repo1": "dev-main",
-        "mono-repo-1/repo2": "dev-main"
+        "mono-repo-1/repo1": "dev-release-v0.1.1-test-2",
+        "mono-repo-1/repo2": "dev-release-v0.1.1-test-2"
     }
 }
